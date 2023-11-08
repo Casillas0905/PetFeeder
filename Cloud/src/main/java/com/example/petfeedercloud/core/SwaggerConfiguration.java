@@ -13,6 +13,6 @@ public class SwaggerConfiguration {
     @Bean
     public OpenAPI baseOpenAPI() {
         return new OpenAPI()
-                .info(new Info().title("SyncTask API").version("1.0.0").description("API to be used at a SyncTask"));
+                .info(new Info().title("PeeFee API").version("1.0.0").description("API for PetFeeder system"));
     }
 }
