@@ -8,5 +8,6 @@ public class PetFeederCloudApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PetFeederCloudApplication.class, args);
+
     }
 }
